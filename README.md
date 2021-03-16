@@ -9,4 +9,4 @@ Since there is no known outcome, I employ an unsupervised machine learning pytho
 ## Example Client Deliverables
 The full list of actively trading crypto currencies can be located ![here]().
 
-![](Actively_Trading_Cryptos.png)
+![](/images/Actively_Trading_Cryptos.png)
