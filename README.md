@@ -7,6 +7,6 @@ Since there is no known outcome, I employ an unsupervised machine learning pytho
 
 
 ## Example Client Deliverables
-The full list of actively trading crypto currencies can be located ![here](Resources/Actively_Trading_Cryptos.csv).
+The full list of actively trading crypto currencies can be located [here](https://github.com/TuckerRasbury/Cryptocurrencies/blob/ba86dd7e6f34bc3904cb1de4f52cf76af49bb9f7/Resources/Actively_Trading_Cryptos.csv).
 
 ![](/images/Actively_Trading_Cryptos.png)
